@@ -1,0 +1,9 @@
+= About {sitename}
+Jason Miller
+:page-layout: base
+:showtitle:
+
+[.lead]
+{sitename} was founded by {author} during a conference workshop.
+
+This page is written in http://asciidoc.org[AsciiDoc].
