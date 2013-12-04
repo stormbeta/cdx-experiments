@@ -1,0 +1,5 @@
+/.awestruct/
+/.ruby-*
+/.sass-cache/
+/_tmp/
+/_site/
